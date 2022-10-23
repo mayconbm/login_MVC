@@ -10,7 +10,7 @@ Após feito isso, basta digitar no node o comando "npm run start" para iniciar o
 
 Clique no botão abaixo para ser redirecionado a documentação pelo Insomnia.
 
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://linkdoinsomnia.com.br)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://mayconbm.github.io/login_MVC/)
 
 ## API
 
